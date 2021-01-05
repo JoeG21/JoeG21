@@ -25,13 +25,13 @@
 <h3> Blogs: </h3>
 <a href='https://devjoe.medium.com/' alt='devjoe'> <img alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /> </a>
 
-<br>
+
 <h3> Connect with me: </h3>
+<ul>
+   <a href='https://www.linkedin.com/in/joe-c-gomez/' alt='Joe C Gomez'> <img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='LinkedIn' /> </a>
 
-<a href='https://www.linkedin.com/in/joe-c-gomez/' alt='Joe C Gomez'> <img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='LinkedIn' /> </a>
-
-<a href='https://twitter.com/devjoecgomez' alt='devjoecgomez'> <img src='https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white' alt='Twitter' /> </a>
-
+   <a href='https://twitter.com/devjoecgomez' alt='devjoecgomez'> <img src='https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white' alt='Twitter' /> </a>
+</ul>
 
 
 <!--
