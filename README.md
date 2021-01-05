@@ -1,8 +1,4 @@
-<ul>
-# Hey y'all 👋👨‍💻
-   <br>
-## I'm a Full Stack Web Development, Ruby on Rails and JavaScript program
-</ul>
+# Hey y'all, my name is Joe Gomez 👋 <br> I'm a Full Stack Web Development, Ruby on Rails and JavaScript program 👨‍💻
 
 <br><br>
 ## Technical Skills:
@@ -26,7 +22,7 @@
 
 <br><br>
 <a href='https://devjoe.medium.com/' alt='devjoe' > <img src='https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white' alt='Medium' /> </a>
-## Latest Blog Posts 📚:
+## <a href='https://devjoe.medium.com/' alt='devjoe' > <img src='https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white' alt='Medium' /> </a> Latest Blog Posts 📚:
 <!-- BLOG-POST-LIST:START -->
 - [Card Flipping With React](https://medium.com/@devjoe/card-flipping-with-react-ba29fdd0cb95?source=rss-17c518b9b391------2)
 - [Depth-First Search and Breadth-First Search Fundamental Difference](https://medium.com/@devjoe/depth-first-search-and-breadth-first-search-fundamental-difference-c06342e0f8ba?source=rss-17c518b9b391------2)
