@@ -1,4 +1,4 @@
-### Hi y'all, I'm Joe Gomez 👋👨‍💻
+# Hi y'all, I'm Joe Gomez 👋👨‍💻
 
 <h2> I'm a Full Stack Web Development, Ruby on Rails and JavaScript program </h2>
 
@@ -22,7 +22,7 @@
 </ul>
 
 
-# Latest Blog Posts:
+## Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
 - [Card Flipping With React](https://medium.com/@devjoe/card-flipping-with-react-ba29fdd0cb95?source=rss-17c518b9b391------2)
 - [Depth-First Search and Breadth-First Search Fundamental Difference](https://medium.com/@devjoe/depth-first-search-and-breadth-first-search-fundamental-difference-c06342e0f8ba?source=rss-17c518b9b391------2)
