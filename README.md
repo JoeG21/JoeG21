@@ -19,6 +19,8 @@
    <img src='https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white' alt='Bootstrap' />
 </ul>
 
+<br>
+
 ## <a href='https://devjoe.medium.com/' alt='devjoe' > <img src='https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white' alt='Medium' /> </a> Latest Blog Posts 📚:
 <!-- BLOG-POST-LIST:START -->
 - [Card Flipping With React](https://medium.com/@devjoe/card-flipping-with-react-ba29fdd0cb95?source=rss-17c518b9b391------2)
@@ -27,6 +29,8 @@
 - [Taking a Detoured to Success](https://medium.com/@devjoe/taking-a-detoured-to-success-5d8c85ee90f8?source=rss-17c518b9b391------2)
 - [My Understanding of A.I.](https://medium.com/@devjoe/my-understanding-of-a-i-f0697d351257?source=rss-17c518b9b391------2)
 <!-- BLOG-POST-LIST:END -->
+
+<br>
 
 ## Connect with me:
 <ul>
