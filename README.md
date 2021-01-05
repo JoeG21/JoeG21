@@ -1,4 +1,4 @@
-### Hi there, I'm Joe Gomez 👋👨‍💻
+### Hi y'all, I'm Joe Gomez 👋👨‍💻
 
 <h2> I'm a Full Stack Web Development, Ruby on Rails and JavaScript program </h2>
 
@@ -17,13 +17,17 @@
    <img src='https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white' alt='jQuery' />
 
    <img src='https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white' alt='SQLite' />
-
+   
    <img src='https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white' alt='Bootstrap' />
 </ul>
 
 
-<h3> Blogs: </h3>
+<h3> Latest Blog Posts: </h3>
 <a href='https://devjoe.medium.com/' alt='devjoe'> <img alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /> </a>
+<ul>
+   <!-- BLOG-POST-LIST:START -->
+   <!-- BLOG-POST-LIST:END -->
+</ul>
 
 
 <h3> Connect with me: </h3>
