@@ -1,6 +1,5 @@
 # Hi y'all, I'm Joe Gomez 👋👨‍💻
-
-## I'm a Full Stack Web Development, Ruby on Rails and JavaScript program
+<h2> I'm a Full Stack Web Development, Ruby on Rails and JavaScript program </h2>
 
 ## Technical Skills:
 <ul>
