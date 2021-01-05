@@ -1,6 +1,5 @@
 # Hey y'all, I'm Joe 👋 <br> I'm a Full Stack Web Development, Ruby on Rails and JavaScript program 👨‍💻
-
-
+<br>
 ## Technical Skills:
 <ul>
    <img src='https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white' alt='Ruby' /> 
