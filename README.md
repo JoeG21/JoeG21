@@ -1,8 +1,8 @@
 # Hi y'all, I'm Joe Gomez 👋👨‍💻
 
-<h2> I'm a Full Stack Web Development, Ruby on Rails and JavaScript program </h2>
+## I'm a Full Stack Web Development, Ruby on Rails and JavaScript program
 
-<h3> Technical Skills: </h3>
+## Technical Skills:
 <ul>
    <img src='https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white' alt='Ruby' /> 
 
@@ -32,7 +32,7 @@
 <!-- BLOG-POST-LIST:END -->
 
 
-<h3> Connect with me: </h3>
+## Connect with me:
 <ul>
    <a href='https://www.linkedin.com/in/joe-c-gomez/' alt='Joe C Gomez'> <img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='LinkedIn' /> </a>
 
