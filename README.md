@@ -1,8 +1,8 @@
 ### Hi there, I'm Joe Gomez 👋👨‍💻
 
-I'm a Full Stack Web Development, Ruby on Rails and JavaScript program
+<h1> I'm a Full Stack Web Development, Ruby on Rails and JavaScript program </h1>
 
-[<img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />][blog]
+<img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />
 
 <!--
 **JoeG21/JoeG21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
