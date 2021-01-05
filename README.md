@@ -1,6 +1,10 @@
+<ul>
 # Hey y'all 👋👨‍💻
+   <br>
 ## I'm a Full Stack Web Development, Ruby on Rails and JavaScript program
+</ul>
 
+<br><br>
 ## Technical Skills:
 <ul>
    <img src='https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white' alt='Ruby' /> 
@@ -20,6 +24,7 @@
    <img src='https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white' alt='Bootstrap' />
 </ul>
 
+<br><br>
 <a href='https://devjoe.medium.com/' alt='devjoe' > <img src='https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white' alt='Medium' /> </a>
 ## Latest Blog Posts 📚:
 <!-- BLOG-POST-LIST:START -->
@@ -30,26 +35,10 @@
 - [My Understanding of A.I.](https://medium.com/@devjoe/my-understanding-of-a-i-f0697d351257?source=rss-17c518b9b391------2)
 <!-- BLOG-POST-LIST:END -->
 
-
+<br><br>
 ## Connect with me:
 <ul>
    <a href='https://www.linkedin.com/in/joe-c-gomez/' alt='Joe C Gomez'> <img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='LinkedIn' /> </a>
 
    <a href='https://twitter.com/devjoecgomez' alt='devjoecgomez'> <img src='https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white' alt='Twitter' /> </a>
 </ul>
-
-
-<!--
-**JoeG21/JoeG21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
