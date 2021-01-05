@@ -1,6 +1,6 @@
-# Hey y'all, my name is Joe Gomez 👋 <br> I'm a Full Stack Web Development, Ruby on Rails and JavaScript program 👨‍💻
+# Hey y'all, I'm Joe 👋 <br> I'm a Full Stack Web Development, Ruby on Rails and JavaScript program 👨‍💻
 
-<br><br>
+
 ## Technical Skills:
 <ul>
    <img src='https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white' alt='Ruby' /> 
@@ -20,8 +20,7 @@
    <img src='https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white' alt='Bootstrap' />
 </ul>
 
-<br><br>
-<a href='https://devjoe.medium.com/' alt='devjoe' > <img src='https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white' alt='Medium' /> </a>
+
 ## <a href='https://devjoe.medium.com/' alt='devjoe' > <img src='https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white' alt='Medium' /> </a> Latest Blog Posts 📚:
 <!-- BLOG-POST-LIST:START -->
 - [Card Flipping With React](https://medium.com/@devjoe/card-flipping-with-react-ba29fdd0cb95?source=rss-17c518b9b391------2)
@@ -31,7 +30,7 @@
 - [My Understanding of A.I.](https://medium.com/@devjoe/my-understanding-of-a-i-f0697d351257?source=rss-17c518b9b391------2)
 <!-- BLOG-POST-LIST:END -->
 
-<br><br>
+
 ## Connect with me:
 <ul>
    <a href='https://www.linkedin.com/in/joe-c-gomez/' alt='Joe C Gomez'> <img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='LinkedIn' /> </a>
