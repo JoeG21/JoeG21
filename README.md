@@ -2,14 +2,17 @@
 
 <h2> I'm a Full Stack Web Development, Ruby on Rails and JavaScript program </h2>
 
-<img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />
 
 
+<h3> Blogs: </h3>
+<a href='https://devjoe.medium.com/' alt='devjoe'> <img alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /> </a>
 
-
-<h3> Social: </h3>
+<br>
+<h3> Connect with me: </h3>
 <br>
 <a href='https://twitter.com/devjoecgomez'> <img src='https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white' /> </a>
+
+
 
 <!--
 **JoeG21/JoeG21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
