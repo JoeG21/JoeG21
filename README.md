@@ -24,7 +24,6 @@
 
 <h3> Latest Blog Posts: </h3>
 <a href='https://devjoe.medium.com/' alt='devjoe'> <img alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /> </a>
-<ul>
    <!-- BLOG-POST-LIST:START -->
 - [Card Flipping With React](https://medium.com/@devjoe/card-flipping-with-react-ba29fdd0cb95?source=rss-17c518b9b391------2)
 - [Depth-First Search and Breadth-First Search Fundamental Difference](https://medium.com/@devjoe/depth-first-search-and-breadth-first-search-fundamental-difference-c06342e0f8ba?source=rss-17c518b9b391------2)
@@ -32,7 +31,6 @@
 - [Taking a Detoured to Success](https://medium.com/@devjoe/taking-a-detoured-to-success-5d8c85ee90f8?source=rss-17c518b9b391------2)
 - [My Understanding of A.I.](https://medium.com/@devjoe/my-understanding-of-a-i-f0697d351257?source=rss-17c518b9b391------2)
 <!-- BLOG-POST-LIST:END -->
-</ul>
 
 
 <h3> Connect with me: </h3>
