@@ -33,10 +33,6 @@
 <br>
 
 ## Connect with me:
-
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-
-
 <ul>
    <a href='https://www.linkedin.com/in/joe-c-gomez/' alt='Joe C Gomez'> <img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='LinkedIn' /> </a>
 
