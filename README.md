@@ -1,9 +1,9 @@
 # Hey y'all, I'm Joe 👋
-## I'm a Full Stack Web Development, Ruby on Rails and JavaScript program 👨‍💻
+## I'm a Full Stack Web Developer, Ruby on Rails and JavaScript program 👨‍💻
 
 - I'm always listening to music 🎶
 - Constantly learning something new 🧠
-- 2021 Goals: Have my portfolio site up! ⭐️
+- 2021 Goal: Have my portfolio site up! ⭐️
 
 ## Languages and Tools 🛠:
 <ul>
