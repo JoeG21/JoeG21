@@ -43,6 +43,6 @@
 <ul>
    <a align='left' href='https://www.linkedin.com/in/joe-c-gomez/' alt='Joe C Gomez'> <img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='LinkedIn' /> </a>
    <a align='left' href='https://twitter.com/devjoecgomez' alt='devjoecgomez'> <img src='https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white' alt='Twitter' /> </a>
-    <a align='left' href='https://twitter.com/devjoecgomez' alt='devjoecgomez'> <img src='https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white' alt='YouTube' /> </a>
+    <a align='left' href='https://www.youtube.com/channel/UCwLqQxU0xFZefEVC3oix7Dw' alt='devjoecgomez'> <img src='https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white' alt='YouTube' /> </a>
    <a href='https://devjoe.medium.com/' alt='devjoe' > <img src='https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white' alt='Medium' /> </a>
 </ul>
