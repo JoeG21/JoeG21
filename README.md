@@ -1,4 +1,4 @@
-# Welcome y'all👋
+# Welcome y'all 👋
 ## I'm a Full Stack Web Developer, Ruby on Rails and JavaScript program 👨‍💻
 
 - I'm always listening to music 🎶
