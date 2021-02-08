@@ -38,11 +38,11 @@
 
 ## Latest Blog Posts 📚:
 <!-- BLOG-POST-LIST:START -->
+- [Displaying a PDF On React](https://medium.com/@devjoe/displaying-a-pdf-on-react-29dd69d22bc?source=rss-17c518b9b391------2)
 - [How To Build A Search Bar Using React Hooks](https://medium.com/@devjoe/how-to-build-a-search-bar-using-react-hooks-e704ff6cc907?source=rss-17c518b9b391------2)
 - [Implementing React Hooks: useEffect](https://medium.com/@devjoe/implementing-react-hooks-useeffect-e27b7a81c74e?source=rss-17c518b9b391------2)
 - [Implementing React Hooks: useState](https://medium.com/@devjoe/implementing-react-hooks-usestate-53e565669439?source=rss-17c518b9b391------2)
 - [Card Flipping With React](https://medium.com/@devjoe/card-flipping-with-react-ba29fdd0cb95?source=rss-17c518b9b391------2)
-- [Depth-First Search and Breadth-First Search Fundamental Difference](https://medium.com/@devjoe/depth-first-search-and-breadth-first-search-fundamental-difference-c06342e0f8ba?source=rss-17c518b9b391------2)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
