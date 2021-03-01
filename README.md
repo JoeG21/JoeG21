@@ -38,11 +38,11 @@
 
 ## Latest Blog Posts 📚:
 <!-- BLOG-POST-LIST:START -->
+- [Contact Form With React: Using Emailjs](https://medium.com/@devjoe/contact-form-with-react-using-emailjs-5bdd8bf1524b?source=rss-17c518b9b391------2)
 - [Algorithm: Insertion Sort](https://medium.com/@devjoe/algorithm-insertion-sort-80bd74aceb5e?source=rss-17c518b9b391------2)
 - [Algorithm: Selection Sort](https://medium.com/@devjoe/algorithm-selection-sort-d836ca460d0b?source=rss-17c518b9b391------2)
 - [Displaying a PDF On React](https://medium.com/@devjoe/displaying-a-pdf-on-react-29dd69d22bc?source=rss-17c518b9b391------2)
 - [How To Build A Search Bar Using React Hooks](https://medium.com/@devjoe/how-to-build-a-search-bar-using-react-hooks-e704ff6cc907?source=rss-17c518b9b391------2)
-- [Implementing React Hooks: useEffect](https://medium.com/@devjoe/implementing-react-hooks-useeffect-e27b7a81c74e?source=rss-17c518b9b391------2)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
