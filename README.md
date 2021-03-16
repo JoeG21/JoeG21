@@ -2,6 +2,7 @@
 ## I'm a Full Stack Web Developer, Ruby on Rails and JavaScript program 👨‍💻
 ## www.joecgomez.com 💻
 
+- Flatiron Alumni 🏛
 - I'm always listening to music 🎶
 - Constantly learning 🧠
 
