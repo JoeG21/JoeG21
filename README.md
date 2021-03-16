@@ -1,9 +1,9 @@
 # Welcome y'all 👋
 ## I'm a Full Stack Web Developer, Ruby on Rails and JavaScript program 👨‍💻
+## www.joecgomez.com 💻
 
 - I'm always listening to music 🎶
 - Constantly learning 🧠
-- 2021 Goals: Have my portfolio site up! ⭐️
 
 ## Languages and Tools 🛠:
 <ul>
