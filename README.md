@@ -4,7 +4,7 @@
 
 - Flatiron Alumni 🏛
 - I'm always listening to music 🎶
-- Constantly learning 🧠
+- Constantly learning 
 
 ## Languages and Tools 🛠:
 <ul>
