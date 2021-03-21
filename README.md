@@ -41,11 +41,11 @@
 
 ## Latest Blog Posts 📚:
 <!-- BLOG-POST-LIST:START -->
-- [React Portal: Building A Modal](https://medium.com/@devjoe/react-portal-building-a-modal-53ee0c78e704?source=rss-17c518b9b391------2)
-- [React: Responsive Website React](https://medium.com/@devjoe/react-responsive-website-react-912337f96828?source=rss-17c518b9b391------2)
-- [Contact Form With React: Using Emailjs](https://medium.com/@devjoe/contact-form-with-react-using-emailjs-5bdd8bf1524b?source=rss-17c518b9b391------2)
-- [Algorithm: Insertion Sort](https://medium.com/@devjoe/algorithm-insertion-sort-80bd74aceb5e?source=rss-17c518b9b391------2)
-- [Algorithm: Selection Sort](https://medium.com/@devjoe/algorithm-selection-sort-d836ca460d0b?source=rss-17c518b9b391------2)
+- [React Portal: Building A Modal](https://devjoe.medium.com/react-portal-building-a-modal-53ee0c78e704?source=rss-17c518b9b391------2)
+- [React: Responsive Website React](https://devjoe.medium.com/react-responsive-website-react-912337f96828?source=rss-17c518b9b391------2)
+- [Contact Form With React: Using Emailjs](https://devjoe.medium.com/contact-form-with-react-using-emailjs-5bdd8bf1524b?source=rss-17c518b9b391------2)
+- [Algorithm: Insertion Sort](https://devjoe.medium.com/algorithm-insertion-sort-80bd74aceb5e?source=rss-17c518b9b391------2)
+- [Algorithm: Selection Sort](https://devjoe.medium.com/algorithm-selection-sort-d836ca460d0b?source=rss-17c518b9b391------2)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
