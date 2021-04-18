@@ -41,11 +41,11 @@
 
 ## Latest Blog Posts 📚:
 <!-- BLOG-POST-LIST:START -->
+- [Customizing Your GitHub](https://devjoe.medium.com/customizing-your-github-ebd18a3085b8?source=rss-17c518b9b391------2)
 - [Big O Notation](https://devjoe.medium.com/big-o-notation-b49f38ace460?source=rss-17c518b9b391------2)
 - [Hosting Projects On Netlify](https://devjoe.medium.com/hosting-projects-on-netlify-10a45a5e358f?source=rss-17c518b9b391------2)
 - [Cheat-Sheet: Command-Line Interface](https://devjoe.medium.com/cheat-sheet-command-line-interface-c43b3385e963?source=rss-17c518b9b391------2)
 - [React Portal: Building A Modal](https://devjoe.medium.com/react-portal-building-a-modal-53ee0c78e704?source=rss-17c518b9b391------2)
-- [React: Responsive Website React](https://devjoe.medium.com/react-responsive-website-react-912337f96828?source=rss-17c518b9b391------2)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
