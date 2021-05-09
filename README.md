@@ -43,11 +43,11 @@
 
 ## Latest Blog Posts 📚:
 <!-- BLOG-POST-LIST:START -->
+- [Learning React Redux Part 1](https://devjoe.medium.com/learning-react-redux-part-1-65b0fbc4ebc7?source=rss-17c518b9b391------2)
 - [Functional Programming](https://devjoe.medium.com/functional-programming-85c6f195ad14?source=rss-17c518b9b391------2)
 - [Kadane’s Algorithm](https://devjoe.medium.com/kadanes-algorithm-3cace0923c99?source=rss-17c518b9b391------2)
 - [Customizing Your GitHub](https://devjoe.medium.com/customizing-your-github-ebd18a3085b8?source=rss-17c518b9b391------2)
 - [Big O Notation](https://devjoe.medium.com/big-o-notation-b49f38ace460?source=rss-17c518b9b391------2)
-- [Hosting Projects On Netlify](https://devjoe.medium.com/hosting-projects-on-netlify-10a45a5e358f?source=rss-17c518b9b391------2)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
