@@ -46,8 +46,8 @@
 - [Number Systems](https://devjoe.medium.com/number-systems-35b93d0ba222?source=rss-17c518b9b391------2)
 - [Compressions To The Rescue](https://devjoe.medium.com/compressions-to-the-rescue-45fa04124fdd?source=rss-17c518b9b391------2)
 - [Using React Hooks For Loading Screen](https://devjoe.medium.com/using-react-hooks-for-loading-screen-5663d8cc26a9?source=rss-17c518b9b391------2)
-- [Learning React Redux Part 1](https://devjoe.medium.com/learning-react-redux-part-1-65b0fbc4ebc7?source=rss-17c518b9b391------2)
 - [Functional Programming](https://devjoe.medium.com/functional-programming-85c6f195ad14?source=rss-17c518b9b391------2)
+- [Kadane’s Algorithm](https://devjoe.medium.com/kadanes-algorithm-3cace0923c99?source=rss-17c518b9b391------2)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
