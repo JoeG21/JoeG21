@@ -3,8 +3,7 @@
 ## Portfolio Website!: www.joecgomez.com 💻
 
 - Flatiron Alumni 🏛
-- Always listening to music 🎶
-- Constantly learning 🧠
+- Constantly listening to music and learning 🎶🧠
 
 ## Languages and Tools 🛠:
 <ul>
