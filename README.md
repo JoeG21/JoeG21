@@ -1,6 +1,6 @@
 # Welcome y'all 👋
 ## I'm a Full Stack Web Developer, Ruby on Rails and JavaScript program 👨‍💻
-## Portfolio Website!: www.joecgomez.com 💻
+## Portfolio Website! www.joecgomez.com 💻
 
 - Flatiron Alumni 🏛
 - Constantly listening to music and learning 🎶🧠
