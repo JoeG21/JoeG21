@@ -34,11 +34,12 @@
    <img src='https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white' alt='React Router' />
    
    <img src='https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white' alt='Netlify' />
+   
+   <img src='https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white' alt='SASS' />
 </ul>
 
 ## Currently Learning 💭:
-   <img src='https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white' alt='SASS' />
-
+   <img src='https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white' alt='AWS' />
 
 ## Latest Blog Posts 📚:
 <!-- BLOG-POST-LIST:START -->
