@@ -1,5 +1,5 @@
 # Welcome y'all 👋
-## I'm a Full Stack Web Developer, Ruby on Rails and JavaScript program 👨‍💻
+## I'm a full stack software engineer experienced in Java, Python, and JavaScript based programming 👨‍💻
 ## Portfolio Website!: www.joecgomez.com 💻
 
 - Flatiron Alumni 🏛
