@@ -1,4 +1,4 @@
-<h1>Welcome y'all! 👋</h1>
+# Welcome y'all! 👋
 ## I'm a full stack software engineer experienced in Java, Python, and JavaScript based programming 👨‍💻
 ## Portfolio Website!: www.joecgomez.com 💻
 
