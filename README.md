@@ -1,9 +1,6 @@
-# Welcome y'all 👋
+# Welcome y'all! 👋
 ## I'm a full stack software engineer experienced in Java, Python, and JavaScript based programming 👨‍💻
 ## Portfolio Website!: www.joecgomez.com 💻
-
-- Flatiron Alumni 🏛
-- Constantly learning 🎶🧠
 
 ## Languages and Tools 🛠:
 <ul>
@@ -20,27 +17,40 @@
    <img src='https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white' alt='HTML5' />
    
    <img src='https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white' alt='CSS' />
+</ul>
 
-   <img src='https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white' alt='SASS' />
+<ul>
+   <img src='https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot' alt='Spring Boot' />
 
    <img src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB' alt='React' />
 
    <img src='https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white' alt='Ruby on Rails' />
 
-   <img src='https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white' alt='SQLite' />
-   
+   <img src='https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white' alt='Node.js' />
+
    <img src='https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white' alt='MySQL' />
-   
+
+   <img src='https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white' alt='MongoDB' />
+
+   <img src='https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white' alt='SQLite' />
+</ul>
+
+<ul>
+   <img src='https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white' alt='SASS' />
+
    <img src='https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white' alt='Bootstrap' />
 
-   <img src='https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white' alt='Node.js' />
-   
+   <img src='https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue' alt='Framer' />
+      
    <img src='https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white' alt='Netlify' />
-   
 </ul>
 
 ## Currently Learning 💭:
+<ul>
    <img src='https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white' alt='NumPy' />
+   
+   <img src='https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white' alt='Pandas' />
+</ul>
 
 ## Latest Blog Posts 📚:
 <!-- BLOG-POST-LIST:START -->
