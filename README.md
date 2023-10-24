@@ -45,9 +45,11 @@
 
 ## Currently Learning 💭:
 <ul>
+   <img src='https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white' alt='Angular' />
+   <!--
    <img src='https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white' alt='NumPy' />
-   
    <img src='https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white' alt='Pandas' />
+   -->
 </ul>
 
 ## Latest Blog Posts 📚:
