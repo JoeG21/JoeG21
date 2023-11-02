@@ -45,10 +45,10 @@
 
 ## Currently Learning 💭:
 <ul>
+   <img src='https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white' alt='Redux' />
+   <!--
    <img src='https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white' alt='NumPy' />
    <img src='https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white' alt='Pandas' />
-
-   <!--
    <img src='https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white' alt='Angular' />
    -->
 </ul>
