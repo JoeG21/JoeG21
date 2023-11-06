@@ -1,4 +1,4 @@
-# Welcome y'all! 👋 
+# Welcome y'all! 🤠
 ## I'm a full stack software engineer experienced in Java, Python, and JavaScript based programming 👨‍💻
 ## Portfolio Website!: www.joecgomez.com 👾
 
@@ -46,6 +46,8 @@
 ## Currently Learning 💭:
 <ul>
    <img src='https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white' alt='Redux' />
+   <img src='https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white' alt='React Router' />
+   
    <!--
    <img src='https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white' alt='NumPy' />
    <img src='https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white' alt='Pandas' />
