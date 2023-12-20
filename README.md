@@ -1,4 +1,4 @@
-# Welcome y'all! 🤠
+# Welcome y'all! 🤠 
 ## I'm a full stack software engineer experienced in Python, Java, and JavaScript based programming 👨‍💻
 ## Portfolio Website!: www.joecgomez.com 👾
 
