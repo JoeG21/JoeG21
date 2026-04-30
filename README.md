@@ -1,5 +1,5 @@
-# Welcome y'all! 🤠
-## I'm a full stack software engineer experienced in Python, Java, and JavaScript based programming 👨‍💻
+# Howdy y'all, I'm Joe 🤠
+## I like solving problems and building systems 👨‍💻
 ## Website!: [www.jcgmz.netlify.app](https://jcgmz.netlify.app/) 👾
 
 ## Languages and Tools 🛠:
