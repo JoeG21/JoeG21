@@ -1,6 +1,6 @@
 # Weclome y'all 🤠
 ## My name is Joe, and I enjoy solving problems and building systems 👨‍💻
-## Portfolio!: [www.jcgmz.netlify.app](https://jcgmz.netlify.app/) 👾
+## Portfolio: [www.jcgmz.netlify.app](https://jcgmz.netlify.app/) 👾
 
 ## Languages and Tools 🛠:
 <ul>
