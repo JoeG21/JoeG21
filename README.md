@@ -2,6 +2,11 @@
 ## My name is Joe, and I enjoy solving problems and building systems 👨‍💻
 ## Portfolio: [www.jcgmz.netlify.app](https://jcgmz.netlify.app/) 👾
 
+## Certifications ✅:
+<ul>
+   <img src='https://img.shields.io/badge/Google%20AI%20Essentials-F2F4F9?style=for-the-badge&logo=google&logoColor=red' alt='Google AI Essentials Certifications' />
+</ul>
+
 ## Languages and Tools 🛠:
 <ul>
    <img src='https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue' alt='Python' />
