@@ -1,7 +1,6 @@
 # Weclome y'all 🤠
 ## My name is Joe, and I enjoy solving problems and building systems 👨‍💻
-## Portfolio: [jcgmz.netlify.app](https://jcgmz.netlify.app/) 👾
-## LeetCode: [gmzj](https://leetcode.com/u/gmzj/) 🥷 HackerRank: [jcggomez](https://www.hackerrank.com/profile/jcggomez)
+## [Portfolio](https://jcgmz.netlify.app/) 👾 [LeetCode](https://leetcode.com/u/gmzj/) 🥷 [HackerRank](https://www.hackerrank.com/profile/jcggomez)
 
 ## Certifications ✅:
 <ul>
@@ -22,12 +21,15 @@
 <ul>
    <img src='https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot' alt='Spring Boot' />
    <img src='https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white' alt='Spring Framework' />
+   <img src='https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white' alt='Ruby on Rails' />
+   <img src='https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white' alt='Node.js' />
+</ul>
+
+<ul>
    <img src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB' alt='React' />
    <img src='https://img.shields.io/badge/vuedo.tjs-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=black' alt='Vuedotjs' />
    <img src='https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white' alt='Angular' />
    <img src='https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white' alt='jQuery' />
-   <img src='https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white' alt='Ruby on Rails' />
-   <img src='https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white' alt='Node.js' />
 </ul>
 
 <ul>
