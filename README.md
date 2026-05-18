@@ -1,6 +1,5 @@
 # Weclome y'all 🤠
-## My name is Joe, and I enjoy solving problems and building systems 👨‍💻
-## [Portfolio](https://jcgmz.netlify.app/) 👾 [LeetCode](https://leetcode.com/u/gmzj/) 🥷 [HackerRank](https://www.hackerrank.com/profile/jcggomez)
+## My name is Joe, and I enjoy solving problems and building systems 👨‍💻 <br /> <br /> [Portfolio](https://jcgmz.netlify.app/) 👾 [LeetCode](https://leetcode.com/u/gmzj/) 🥷 [HackerRank](https://www.hackerrank.com/profile/jcggomez)
 
 ## Certifications ✅:
 <ul>
