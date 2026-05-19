@@ -27,8 +27,8 @@
 
 <ul>
    <img src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB' alt='React' />
-   <img src='https://img.shields.io/badge/vuedo.tjs-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=black' alt='Vuedotjs' />
    <img src='https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white' alt='Angular' />
+   <img src='https://img.shields.io/badge/vuedo.tjs-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=black' alt='Vuedotjs' />
    <img src='https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white' alt='jQuery' />
 </ul>
 
@@ -47,8 +47,18 @@
 </ul>
 
 <ul>
+   <img src='https://img.shields.io/badge/MacOS-F2F4F9?style=for-the-badge&logo=macos&logoColor=black' alt='macOS' />
+   <img src='https://img.shields.io/badge/MS_Windows-123fe0?style=for-the-badge' alt='MS Windows' />
+</ul>
+
+<ul>
    <img src='https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white' alt='NumPy' />
    <img src='https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white' alt='Pandas' />
+</ul>
+
+<ul>
+   <img src='https://img.shields.io/badge/MS_Azure-F2F4F9?style=for-the-badge&logo=icloud' alt='MS Azure' />
+   <img src='https://img.shields.io/badge/AWS-00114d?style=for-the-badge' alt='AWS' />
 </ul>
 
 ## Currently Learning 💭:
