@@ -13,6 +13,7 @@
    <img src='https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue' alt='Python' />
    <img src='https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white' alt='Java' />
    <img src='https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black' alt='JavaScript' />
+   <img src='https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white' alt='TypeScript' />
    <img src='https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white' alt='Ruby' />  
    <img src='https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white' alt='HTML5' />
    <img src='https://img.shields.io/badge/CSS-663399?&style=for-the-badge&logo=CSS&logoColor=white' alt='CSS' />
@@ -28,7 +29,7 @@
 <ul>
    <img src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB' alt='React' />
    <img src='https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white' alt='Angular' />
-   <img src='https://img.shields.io/badge/vuedo.tjs-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=black' alt='Vuedotjs' />
+   <img src='https://img.shields.io/badge/next.ts-000000?style=for-the-badge&logo=nextdotjs' alt='Next.TS' />
    <img src='https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white' alt='jQuery' />
 </ul>
 
