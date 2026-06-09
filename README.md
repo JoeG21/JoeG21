@@ -3,8 +3,8 @@
 
 ## Certifications ✅:
 <ul>
-   <img src='https://img.shields.io/badge/Google%20AI%20Essentials-F2F4F9?style=for-the-badge&logo=google&logoColor=4285F4' alt='AI Essentials Certifications' />
-   <img src='https://img.shields.io/badge/Google%20AI%20Professional-F2F4F9?style=for-the-badge&logo=google&logoColor=4285F4' alt='AI for Data Analysis' />
+   <img src='https://img.shields.io/badge/Google%20AI%20Essentials-F2F4F9?style=for-the-badge&logo=google&logoColor=4285F4' alt='Google AI Essentials' />
+   <img src='https://img.shields.io/badge/Google%20AI%20Professional-F2F4F9?style=for-the-badge&logo=google&logoColor=4285F4' alt='Google AI Professional' />
    <img src='https://img.shields.io/badge/CompTIA%20A+-In%20Progress-brightgreen?style=for-the-badge' alt='CompTIA A+' />
 </ul>
 
