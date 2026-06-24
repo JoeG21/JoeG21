@@ -62,6 +62,11 @@
    <img src='https://img.shields.io/badge/AWS-00114d?style=for-the-badge' alt='AWS' />
 </ul>
 
+<ul>
+   <img src='https://img.shields.io/badge/Epicor-08c7f9?style=for-the-badge' alt='Epicor' />
+   <img src='https://img.shields.io/badge/odoo-865a7b?style=for-the-badge&logo=odoo' alt='Odoo' />
+</ul>
+
 ## Currently Learning 💭:
 <ul>
    <img src='https://img.shields.io/badge/Chess-00000F?style=for-the-badge&logo=chess.com&logoColor=green' alt='Chess' />
